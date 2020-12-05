@@ -6,7 +6,7 @@
 
 #### Natours Project 
 
-[Portfolio] (https://github.com/getSierralta/Portfolio-sass.git)
+[Portfolio](https://github.com/getSierralta/Portfolio-sass.git)
 
 ### Table of Content 
 
