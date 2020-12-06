@@ -6,7 +6,7 @@
 
 #### Natours Project 
 
-[Personalized Portfolio](https://github.com/getSierralta/Portfolio-sass.git
+[Personalized Portfolio](https://github.com/getSierralta/Portfolio-sass.git)
 [Original version of the project](Advanced-CSS-and-Sass/natours)
 
 
