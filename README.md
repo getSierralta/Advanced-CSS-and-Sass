@@ -9,6 +9,10 @@
 * [Personalized Portfolio](https://github.com/getSierralta/Portfolio-sass.git)
 * [Original version of the project](/natours)
 
+#### Trillo Project 
+
+* [Trillo project](/trillo)
+
 
 ### Table of Content 
 
