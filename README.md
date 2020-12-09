@@ -6,10 +6,14 @@
 
 #### Natours Project 
 
+###### Advanced Responsive Design
+
 * [Personalized Portfolio](https://github.com/getSierralta/Portfolio-sass.git)
 * [Original version of the project](/natours)
 
 #### Trillo Project 
+
+##### Master Flexbox
 
 * [Trillo project](/trillo)
 
